@@ -1,2 +1,2 @@
 # chop-chop
-Superfast prototypes
+Superfast prototypes with a simple cli
