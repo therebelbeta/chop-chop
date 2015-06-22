@@ -1,6 +1,7 @@
 {
   "name": "chop-chop",
   "version": "1.0.0",
+  "repository": "rimraf/chop-chop",
   "description": "superfast web prototypes",
   "preferGlobal": true,
   "scripts": {
@@ -10,5 +11,11 @@
     "chop": "index.js"
   },
   "author": "George Crabtree",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^0.8.5",
+    "rc": "^1.0.3",
+    "shelljs": "^0.5.1"
+  }
 }

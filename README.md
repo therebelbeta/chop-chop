@@ -1,2 +1,2 @@
 # chop-chop
-Superfast web prototypes
+Superfast prototypes
